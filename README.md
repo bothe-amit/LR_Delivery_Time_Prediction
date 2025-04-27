@@ -4,6 +4,7 @@ Data file is also uploaded.
 
 ## Note Student Comment -
 All my comments are in the code itself. I have tried to explain the code as much as possible. All my analytical observations are stated after the actual code/graph with ''' symbol and the code is explained with normal '#' comments. I have stored and created new data frames based on various important data milestones to reduce the requirement to run the entire file eveytime I load it. This is to reduce the time taken to run the code.
+Note: As instructed all the subjective questions have been answered in the python notebook. There could be some issue in specific symbols as its difficult to write them in python. Yet I have tried my best to recreate them.
 
 ## Assumptions -
 I have assumed that the data is clean. I have also assumed that the data is not corrupted and is in the correct format. 
